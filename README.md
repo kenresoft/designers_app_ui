@@ -26,6 +26,25 @@ Random Designers Flutter Application with 2 functional screens.
 <img src="screenshots/Screenshot_20230411-143043.jpg" width="300" height="600" title="Home Page 1" alt="Home Page 1">
 <img src="screenshots/Screenshot_20230411-143056.jpg" width="300" height="600" title="Home Page 2" alt="Home Page 2">
 
+## Dependency
+```yaml
+dependencies:
+  flutter:
+    sdk: flutter
+
+  fontresoft:
+    git:
+      url: git@github.com:kenresoft/fontresoft.git
+      ref: master
+  extensionresoft:
+    git:
+      url: git@github.com:kenresoft/extensionresoft.git
+      ref: master
+  
+  go_router: ^6.5.5
+  flutter_riverpod: ^2.3.3
+```
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
