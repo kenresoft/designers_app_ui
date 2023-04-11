@@ -21,10 +21,10 @@ Random Designers Flutter Application with 2 functional screens.
 
 ## Screenshots
 
-<img src="C:\Users\user\AndroidStudioProjects\PROJECTS\designers_app_ui\screenshots\Screenshot_20230411-143027.jpg" width="300" height="600" title="Dashboard 1" alt="Dashboard 1"/>
-<img src="C:\Users\user\AndroidStudioProjects\PROJECTS\designers_app_ui\screenshots\Screenshot_20230411-143037.jpg" width="300" height="600" title="Dashboard 2" alt="Dashboard 2">
-<img src="C:\Users\user\AndroidStudioProjects\PROJECTS\designers_app_ui\screenshots\Screenshot_20230411-143043.jpg" width="300" height="600" title="Home Page 1" alt="Home Page 1">
-<img src="C:\Users\user\AndroidStudioProjects\PROJECTS\designers_app_ui\screenshots\Screenshot_20230411-143056.jpg" width="300" height="600" title="Home Page 2" alt="Home Page 2">
+<img src="screenshots/Screenshot_20230411-143027.jpg" width="300" height="600" title="Dashboard 1" alt="Dashboard 1"/>
+<img src="screenshots/Screenshot_20230411-143037.jpg" width="300" height="600" title="Dashboard 2" alt="Dashboard 2">
+<img src="screenshots/Screenshot_20230411-143043.jpg" width="300" height="600" title="Home Page 1" alt="Home Page 1">
+<img src="screenshots/Screenshot_20230411-143056.jpg" width="300" height="600" title="Home Page 2" alt="Home Page 2">
 
 ## Getting Started
 
