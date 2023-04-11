@@ -17,10 +17,10 @@ class Dashboard extends StatefulWidget {
 
 class _DashboardState extends State<Dashboard> with SingleTickerProviderStateMixin {
   var list = ['Designer', 'Category', 'Attention'];
-  var list2 = ['Illustration', 'Interface', 'Web Design'];
+  var list2 = ['Illustration', 'Interface', 'Web Design', 'Technology'];
   //var list3 = [Constants.profile].multiply(times: 6);
   var list3 = [Constants.tech, Constants.web, Constants.spaceship, Constants.laptop, Constants.www, Constants.moon];
-  var colors = [Colors.green.shade300, Colors.blue.shade300, Colors.orange.shade300];
+  var colors = [Colors.green.shade300, Colors.blue.shade300, Colors.orange.shade300, Colors.pink.shade300];
   var colors2 = [Colors.purple.shade200, Colors.green.shade200, Colors.orange.shade200, Colors.blue.shade200, Colors.teal.shade200, Colors.red.shade200];
 
   late AnimationController controller;
