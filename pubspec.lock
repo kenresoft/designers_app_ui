@@ -165,8 +165,8 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: master
-      resolved-ref: "880e1cfc0bfdbd13bb2a57d72a1330674ac05ce3"
+      ref: release
+      resolved-ref: "0829a5daad7169880ff61d91d925fff0f43d555e"
       url: "git@github.com:kenresoft/fontresoft.git"
     source: git
     version: "0.0.1"
@@ -376,5 +376,5 @@ packages:
     source: hosted
     version: "3.1.1"
 sdks:
-  dart: ">=3.0.0-0 <4.0.0"
+  dart: ">=3.0.0 <4.0.0"
   flutter: ">=3.3.0"

@@ -6,7 +6,7 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 version: 1.0.0+1
 
 environment:
-  sdk: '>=2.19.0 <3.0.0'
+  sdk: '>=3.0.0 <4.0.0'
 
 dependencies:
   flutter:
@@ -15,7 +15,7 @@ dependencies:
   fontresoft:
     git:
       url: git@github.com:kenresoft/fontresoft.git
-      ref: master
+      ref: release
   extensionresoft:
     git:
       url: git@github.com:kenresoft/extensionresoft.git
